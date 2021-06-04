@@ -1,0 +1,352 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.11f1 (99c7afb366b3) revision 10078127'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.985; Version 2004; 64bit' Language: 'ru' Physical Memory: 8023 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Аня/MyFirstGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55506
+Successfully changed project path to: C:/Users/Аня/MyFirstGame
+C:/Users/Аня/MyFirstGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 33.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.11f1 (99c7afb366b3)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Аня/MyFirstGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti (ID=0x1f95)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56152
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003574 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 27.06 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.971 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009734 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.922 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1397 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.9 MB.
+System memory in use after: 79.0 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1845.
+Total: 1.710300 ms (FindLiveObjects: 0.144200 ms CreateObjectMapping: 0.047000 ms MarkObjects: 1.462500 ms  DeleteObjects: 0.055200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/GleyPlugins
+  artifactKey: Guid(a4404ad538a2fa148be12b9eb4c670b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins using Guid(a4404ad538a2fa148be12b9eb4c670b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1adffcfc46219866ab651ba1a7263cf9') in 0.008800 seconds
+  Import took 0.010950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.799657 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack
+  artifactKey: Guid(3a84aa7cf03804744a72253326d86554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack using Guid(3a84aa7cf03804744a72253326d86554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc91b6a0e6502477f8d7a2d6f911995e') in 0.018153 seconds
+  Import took 0.020624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.579055 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Prefabs
+  artifactKey: Guid(1964cd7d470ffe24081c5ee5a31490c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Prefabs using Guid(1964cd7d470ffe24081c5ee5a31490c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30fc58c5a26fbf132c14e5f07692122d') in 0.008043 seconds
+  Import took 0.010405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.056722 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Prefabs/Vehicle01_Vespa.prefab
+  artifactKey: Guid(3813a5491d62c9048b4c5466b00ed841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Prefabs/Vehicle01_Vespa.prefab using Guid(3813a5491d62c9048b4c5466b00ed841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3ed641aad446cd2caa3099223a64b6') in 0.119593 seconds
+  Import took 0.122321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Prefabs/Vehicle03_Dodge.prefab
+  artifactKey: Guid(f8c20c6b3f45c054da38d190b8c20b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Prefabs/Vehicle03_Dodge.prefab using Guid(f8c20c6b3f45c054da38d190b8c20b44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cd1dc01f133d9135139d76b5da99f69') in 0.016870 seconds
+  Import took 0.019508 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Prefabs/Vehicle02_Piaggio.prefab
+  artifactKey: Guid(25475d0a94cb47348a7bcbc336364818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Prefabs/Vehicle02_Piaggio.prefab using Guid(25475d0a94cb47348a7bcbc336364818) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5741d93478e1edb039dee17a9e38150') in 0.016708 seconds
+  Import took 0.018974 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.256416 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Animations
+  artifactKey: Guid(9198452a69900b34995e51fbf922c2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Animations using Guid(9198452a69900b34995e51fbf922c2ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00cdba62729c5f9f64dd4f0eac524d0c') in 0.008767 seconds
+  Import took 0.012255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.812705 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Meshes
+  artifactKey: Guid(7c991df6a7f73514a9e40185e5807f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Meshes using Guid(7c991df6a7f73514a9e40185e5807f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '798b28af4fcbf64dbd462c8d92371231') in 0.006967 seconds
+  Import took 0.010245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095035 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Meshes/Environment.FBX
+  artifactKey: Guid(4b96edce47bbe8740a3c4512469684bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Meshes/Environment.FBX using Guid(4b96edce47bbe8740a3c4512469684bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2730411a721ebeec971c1387ea3662e7') in 0.093452 seconds
+  Import took 0.095969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Meshes/Vehicle03_Dodge.FBX
+  artifactKey: Guid(4be3dbf378ed5004fb6a2e3e49e5fdfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Meshes/Vehicle03_Dodge.FBX using Guid(4be3dbf378ed5004fb6a2e3e49e5fdfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f72ca198ccae04de2bc806f77cf43017') in 0.028621 seconds
+  Import took 0.030814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Meshes/Vehicle02_Piaggio.FBX
+  artifactKey: Guid(18f252caa7bbc3049be771d113bcd564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Meshes/Vehicle02_Piaggio.FBX using Guid(18f252caa7bbc3049be771d113bcd564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c8f598da34cddeff21526a121e3150') in 0.042106 seconds
+  Import took 0.045748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Meshes/Vehicle01_Vespa.FBX
+  artifactKey: Guid(434536a17f4ec8241aec5bbe0613aed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Meshes/Vehicle01_Vespa.FBX using Guid(434536a17f4ec8241aec5bbe0613aed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96517be9a2867433578d46d208930ca') in 0.061816 seconds
+  Import took 0.064989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.758346 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Scenes
+  artifactKey: Guid(3c3e430fe6ad4f44086d72835e3e1c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Scenes using Guid(3c3e430fe6ad4f44086d72835e3e1c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29109ed073ffb05aa4d931ee08836c0b') in 0.017023 seconds
+  Import took 0.019411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.739829 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Scripts
+  artifactKey: Guid(033b2390d965ead47a3d706daca616d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Scripts using Guid(033b2390d965ead47a3d706daca616d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d34d76f0e1fc00032e4ce11ec2f3f31') in 0.007629 seconds
+  Import took 0.010237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.708491 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Textures
+  artifactKey: Guid(73c6029cde040c24ca4eb6b0cf5a7d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Textures using Guid(73c6029cde040c24ca4eb6b0cf5a7d57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75f3661816192d6ac9f4fe695a72ba84') in 0.007090 seconds
+  Import took 0.014198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.074568 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Textures/Vehicle01_Vespa.psd
+  artifactKey: Guid(14a40238ac1e0874fad5a2a902709864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Textures/Vehicle01_Vespa.psd using Guid(14a40238ac1e0874fad5a2a902709864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa028853056b53cd6d4f7569b67feb9f') in 0.040954 seconds
+  Import took 0.043726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Textures/Vehicle02_Piaggio.psd
+  artifactKey: Guid(00865f7559e481949840b1491d062b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Textures/Vehicle02_Piaggio.psd using Guid(00865f7559e481949840b1491d062b7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a99f60c6996983b779d041feb2c56dee') in 0.009443 seconds
+  Import took 0.011794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Textures/Vehicle03_Dodge.psd
+  artifactKey: Guid(1d726b70680c2e94b89c5215eff64b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Textures/Vehicle03_Dodge.psd using Guid(1d726b70680c2e94b89c5215eff64b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd019e6ee8e5781ad4e1794cc70d0216d') in 0.012652 seconds
+  Import took 0.015094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 853.320658 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Textures/Vehicle01_Vespa.psd
+  artifactKey: Guid(14a40238ac1e0874fad5a2a902709864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Textures/Vehicle01_Vespa.psd using Guid(14a40238ac1e0874fad5a2a902709864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56c9a92733f86c64ab8d7af0cfff8609') in 0.179476 seconds
+  Import took 0.234430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.591797 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Textures/Vehicle01_Vespa.psd
+  artifactKey: Guid(14a40238ac1e0874fad5a2a902709864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Textures/Vehicle01_Vespa.psd using Guid(14a40238ac1e0874fad5a2a902709864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c13ba070aefd9f2e57f1eed7d20c6493') in 0.026207 seconds
+  Import took 0.030601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 67.056833 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Textures/Vehicle01_Vespa.psd
+  artifactKey: Guid(14a40238ac1e0874fad5a2a902709864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Textures/Vehicle01_Vespa.psd using Guid(14a40238ac1e0874fad5a2a902709864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6d58c1c0da603fb2f533def433c33f4') in 0.025671 seconds
+  Import took 0.032427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 376.539275 seconds.
+  path: Assets/GleyPlugins/DeliveryVehiclesPack/Textures/Vehicle01_Vespa.psd
+  artifactKey: Guid(14a40238ac1e0874fad5a2a902709864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GleyPlugins/DeliveryVehiclesPack/Textures/Vehicle01_Vespa.psd using Guid(14a40238ac1e0874fad5a2a902709864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c8541e2213e1619ff258de6eca8acd') in 0.036617 seconds
+  Import took 0.042073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1713.695836 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Materials
+  artifactKey: Guid(7f7af0acf4987b0428e8f0c12ace64fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Materials using Guid(7f7af0acf4987b0428e8f0c12ace64fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd4ff6bf02a464491bbc471595d6c8b') in 0.017836 seconds
+  Import took 0.145262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Materials/Cold.mat
+  artifactKey: Guid(d945c681c4504df439962c1a6f33d8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Materials/Cold.mat using Guid(d945c681c4504df439962c1a6f33d8af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9828fc55bf67d0c5250a65aca940656') in 0.341296 seconds
+  Import took 0.344191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Materials/Dry.mat
+  artifactKey: Guid(894583d895d58b444b8e8b67169bd2a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Materials/Dry.mat using Guid(894583d895d58b444b8e8b67169bd2a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bf320b388a5c8f9256e04e8253aac32') in 0.039306 seconds
+  Import took 0.042036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Materials/Fall.mat
+  artifactKey: Guid(a62e8da5194101042a4d89028ef6f912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Materials/Fall.mat using Guid(a62e8da5194101042a4d89028ef6f912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc055ec926f568cf929b264bb9e7f1a2') in 0.033487 seconds
+  Import took 0.036546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Materials/Normal.mat
+  artifactKey: Guid(fe3e3b8ebc1a32647b48b7ea88f534a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Materials/Normal.mat using Guid(fe3e3b8ebc1a32647b48b7ea88f534a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c287b584bb82c41d4bd2471923b0ff') in 0.022070 seconds
+  Import took 0.025300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004872 seconds.
+  path: Assets/BrokenVector/LowPolyTreePack/Materials/Normal.mat
+  artifactKey: Guid(fe3e3b8ebc1a32647b48b7ea88f534a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BrokenVector/LowPolyTreePack/Materials/Normal.mat using Guid(fe3e3b8ebc1a32647b48b7ea88f534a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28c287b584bb82c41d4bd2471923b0ff') in 0.019134 seconds
+  Import took 0.023692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.446526 seconds.
+  path: Assets/VIASS FreeCharacter Pack/File Material
+  artifactKey: Guid(33e907e724727c04ca9355b91055407f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VIASS FreeCharacter Pack/File Material using Guid(33e907e724727c04ca9355b91055407f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '029590738c66eedf5e9bed97511b77b7') in 0.008184 seconds
+  Import took 0.011052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.879563 seconds.
+  path: Assets/VIASS FreeCharacter Pack/File Material/Materials_VIASS_Dman
+  artifactKey: Guid(03ae5b0d994e7094f9674f01a17a29cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VIASS FreeCharacter Pack/File Material/Materials_VIASS_Dman using Guid(03ae5b0d994e7094f9674f01a17a29cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16564ab0ee2ea810ed7a9e88518ce49f') in 0.007547 seconds
+  Import took 0.010215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.085839 seconds.
+  path: Assets/VIASS FreeCharacter Pack/File Material/Materials_VIASS_Dman/VIASS_Dman_dif.mat
+  artifactKey: Guid(fcfc1f26354628848bb0098d0594e1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VIASS FreeCharacter Pack/File Material/Materials_VIASS_Dman/VIASS_Dman_dif.mat using Guid(fcfc1f26354628848bb0098d0594e1b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e61ea365f2b09fda2255b374e0e0f71') in 0.026543 seconds
+  Import took 0.029336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.985917 seconds.
+  path: Assets/VIASS FreeCharacter Pack/FileTexture
+  artifactKey: Guid(947d15cf279dd95418236ba02c72ab84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VIASS FreeCharacter Pack/FileTexture using Guid(947d15cf279dd95418236ba02c72ab84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4f79131043a14378435691c784eb550') in 0.008743 seconds
+  Import took 0.011139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083082 seconds.
+  path: Assets/VIASS FreeCharacter Pack/FileTexture/VIASS_Dman_dif.png
+  artifactKey: Guid(1e1bd48fc756d7b4ea759a3679d79569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VIASS FreeCharacter Pack/FileTexture/VIASS_Dman_dif.png using Guid(1e1bd48fc756d7b4ea759a3679d79569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f10050db4e5a9ee55001f86f7c016fe6') in 0.026681 seconds
+  Import took 0.028876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.789073 seconds.
+  path: Assets/VIASS FreeCharacter Pack/FIle prefab
+  artifactKey: Guid(e2eaa6cc5831ad0449cbd1f1209c91ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VIASS FreeCharacter Pack/FIle prefab using Guid(e2eaa6cc5831ad0449cbd1f1209c91ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd30b440ff0b5135b7f0e318a51a4887') in 0.019492 seconds
+  Import took 0.022193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064023 seconds.
+  path: Assets/VIASS FreeCharacter Pack/FIle prefab/VIASS_Dman.prefab
+  artifactKey: Guid(eea16ef0f58854448aaa9db9257bc84b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/VIASS FreeCharacter Pack/FIle prefab/VIASS_Dman.prefab using Guid(eea16ef0f58854448aaa9db9257bc84b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '748e92fd7fb915c56e5310417eb1404c') in 0.034299 seconds
+  Import took 0.036682 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
